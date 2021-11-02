@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/DiegoKraenauEveris/ConfigRepo
+          uri: https://github.com/christiangarcia97/config-data-p3
 
   # Spring properties in case you use different profiles
   profiles:
