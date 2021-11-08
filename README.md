@@ -9,3 +9,4 @@ gateway-service | 8080 |
 customer-service | 8081 | 
 account-service | 8082 | 
 transaction-service | 8083 | 
+report-service | 8084 |
