@@ -39,9 +39,11 @@ docker-compose up -d
 ```
 Ejecutar el comando en la carpeta de cada proyecto para su dockerización.
 
-## Postman
+## Postman | Draw.io
 
-Primero descargar la colección en Postman desde este [enlace](https://drive.google.com/file/d/1d3qqPssPuQpXtu1bJhb5Kxj1A6xy26C3/view?usp=sharing). Importarlo a Postman para el uso de los endpoints.
+* Primero descargar la colección en Postman desde este [enlace](https://drive.google.com/file/d/1d3qqPssPuQpXtu1bJhb5Kxj1A6xy26C3/view?usp=sharing). Importarlo a Postman para el uso de los endpoints.
+
+* Gráfico en draw.io como [imagen](https://drive.google.com/file/d/10dc39mZ-S9UiC3kKzzBOfQnpzZ-S3k12/view?usp=sharing) o cómo [archivo](https://drive.google.com/file/d/1L6iXfjW4kIjBvc0N4aof7dGB-GMu4-u6/view?usp=sharing) .io
 
 ## Tecnologías 
 
